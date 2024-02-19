@@ -52,8 +52,4 @@ PIP 20.2.4
 #### Hosted URL
 A copy of Route Planner Version v1.1.2 will remain hosted [at this link](https://comp1828.universitycourse.work/)  to easy viewing of the software.
 
-## Project Contributors
-William Phillips - [@MetallicGloss](https://github.com/MetallicGloss)  
-Adnan Turan - [@AdnanT-ADN](https://github.com/AdnanT-ADN)  
-Dan Browne - [@It-is-Dan](https://github.com/It-is-Dan)  
-Gabriel Netz - [@gabrielnetz](https://github.com/gabrielnetz)  
+
